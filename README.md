@@ -6,4 +6,4 @@ A chatbot allows users to receive an alert for list of movies screened in XD roo
 
 
 ## License
-MIT
+![MIT](https://github.com/minji-mia/MovieXdBot/blob/master/LICENSE)
